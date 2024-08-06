@@ -1,4 +1,4 @@
-// A colloction of data in a same data type
+// A collection of data in a same data type
 
 // Using array brackets
 const listOfNumbers: number[] = [1, 2, 8, 6, 1, 8, 6];
