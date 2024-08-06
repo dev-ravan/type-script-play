@@ -8,3 +8,13 @@ const personDetails : Details = {
     lName:"Ravindran",
     age:23
 }
+
+// ----------------------
+
+function userDetails() : Details {
+    return {
+        fName:"Velmurugan",
+        lName:"Ravindran",
+        age:23
+    }
+}
