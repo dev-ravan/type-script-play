@@ -7,3 +7,8 @@ Table of content
 6. [Objects](objects.ts)
 7. [Type Aliases](type_aliases.ts)
 8. [Intersection Type](intersection_type.ts)
+9. [Tuple](tuple.ts)
+10.[Unions](unions.ts)
+11.[Enums](enum.ts)
+12.[Classes](classes.ts)
+13.[Access Modifiers](access_modifiers.ts)
